@@ -3,13 +3,13 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 .utmp/
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+Group240_Stage/[Ll]ibrary/
+Group240_Stage/[Tt]emp/
+Group240_Stage/[Oo]bj/
+Group240_Stage/[Bb]uild/
+Group240_Stage/[Bb]uilds/
+Group240_Stage/[Ll]ogs/
+Group240_Stage/[Uu]ser[Ss]ettings/
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
