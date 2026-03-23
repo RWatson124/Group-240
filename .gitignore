@@ -11,6 +11,14 @@ BarExamples/[Bb]uild/
 BarExamples/[Bb]uilds/
 BarExamples/[Ll]ogs/
 BarExamples/[Uu]ser[Ss]ettings/
+
+CombinedProject/[Ll]ibrary/
+CombinedProject/[Tt]emp/
+CombinedProject/[Oo]bj/
+CombinedProject/[Bb]uild/
+CombinedProject/[Bb]uilds/
+CombinedProject/[Ll]ogs/
+CombinedProject/[Uu]ser[Ss]ettings/
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
