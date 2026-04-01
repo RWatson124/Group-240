@@ -19,6 +19,16 @@ CombinedProject/[Bb]uild/
 CombinedProject/[Bb]uilds/
 CombinedProject/[Ll]ogs/
 CombinedProject/[Uu]ser[Ss]ettings/
+
+# FinalProject
+FinalProject/[Ll]ibrary/
+FinalProject/[Tt]emp/
+FinalProject/[Oo]bj/
+FinalProject/[Bb]uild/
+FinalProject/[Bb]uilds/
+FinalProject/[Ll]ogs/
+FinalProject/[Uu]ser[Ss]ettings/
+
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
