@@ -3,33 +3,25 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 .utmp/
-# Unity generated folders
-BarExamples/[Ll]ibrary/
-BarExamples/[Tt]emp/
-BarExamples/[Oo]bj/
-BarExamples/[Bb]uild/
-BarExamples/[Bb]uilds/
-BarExamples/[Ll]ogs/
-BarExamples/[Uu]ser[Ss]ettings/
+# Unity (applies to ALL projects)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 
-CombinedProject/[Ll]ibrary/
-CombinedProject/[Tt]emp/
-CombinedProject/[Oo]bj/
-CombinedProject/[Bb]uild/
-CombinedProject/[Bb]uilds/
-CombinedProject/[Ll]ogs/
-CombinedProject/[Uu]ser[Ss]ettings/
-
-# FinalProject
-FinalProject/[Ll]ibrary/
-FinalProject/[Tt]emp/
-FinalProject/[Oo]bj/
-FinalProject/[Bb]uild/
-FinalProject/[Bb]uilds/
-FinalProject/[Ll]ogs/
-FinalProject/[Uu]ser[Ss]ettings/
-
+# Logs
 *.log
+
+# Visual Studio
+.vs/
+.vsconfig
+
+# OS
+.DS_Store
+Thumbs.db
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
